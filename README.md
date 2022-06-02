@@ -2,7 +2,5 @@
 
 **Dependencies**
 > pyserial
-
 > time
-
 > tkinter
