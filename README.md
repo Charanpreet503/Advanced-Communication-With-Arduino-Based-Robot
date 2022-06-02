@@ -1,6 +1,9 @@
-# Advanced-Communication-With-Arduino-Based-Robot
+# Advanced Communication With Arduino Based Robot
 
-**Dependencies**
-> pyserial
-> time
-> tkinter
+## Dependencies 
+>pyserial
+
+>time
+
+>tkinter 
+
